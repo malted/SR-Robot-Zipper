@@ -1,6 +1,6 @@
 [package]
-name = "SR-Robot-Zipper"
-version = "1.0.1"
+name = "sr_robot_zipper"
+version = "1.0.2"
 authors = ["runner"]
 edition = "2021"
 

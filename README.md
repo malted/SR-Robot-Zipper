@@ -7,4 +7,4 @@ The program;
 * Takes all the files ending with `.py` in a directory, and zips them up into an archive called `robot.zip`.
 * Makes sure there is a file named `robot.py` as this is a requirement.
 
-## [Releases]()
+## [Releases](https://github.com/ma1ted/SR-Robot-Zipper/releases)

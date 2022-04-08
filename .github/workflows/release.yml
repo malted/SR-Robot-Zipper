@@ -3,11 +3,6 @@ name: Release
 on:
   release:
     types: [created]
-  workflow_run:
-    workflows: ["Build"]
-    branches: [main]
-    types: 
-      - completed
 
 jobs:
   release:

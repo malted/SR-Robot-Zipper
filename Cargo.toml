@@ -1,6 +1,6 @@
 [package]
-name = "my-project"
-version = "0.1.0"
+name = "SR-Robot-Zipper"
+version = "1.0.1"
 authors = ["runner"]
 edition = "2021"
 

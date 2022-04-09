@@ -1,7 +1,7 @@
 # SR-Robot-Zipper
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ma1ted/SR-Robot-Zipper/Rust)
 [![Run on Replit badge](https://replit.com/badge/github/malted/SR-Robot-Zipper)](https://replit.com/@malted/SR-Robot-Zipper)
-### A program for zipping python files into an archive for use with the Student Robotics omniboard
+### A program for zipping python files into an archive for use with the Student Robotics Odroid U3+
 
 The program;
 * Takes all the files ending with `.py` in a directory, and zips them up into an archive called `robot.zip`.
